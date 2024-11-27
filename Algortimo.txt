@@ -10,6 +10,6 @@ Inicio
 	a<-num1 MOD 10
 	b<-num DIV 10
 	c<-a +b
-	Escrever(a,"+" ,b "=", c)
-
-Fim	
+	
+	
+	//Retficação:neste primeiro commit ja tinha imprimido o resultado
