@@ -1,3 +1,5 @@
 G. Merge é utilizado para dois unir ou mais ficheiros sem que haja conflitos, exsitem dois tipos de merge, merge automático, que no caso git atualiza por si mesmo o ficheiro, e existe tambem merge manual, que é necessárioo ulizador fazer o merge manualmente.
 
 H. O comando para verificar os ficheiros adiconados que não estão staged, e ficheiros que estão staged é o git status
+
+J. diz o hgistorico de commits relativos ao script
