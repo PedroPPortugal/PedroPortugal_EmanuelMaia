@@ -11,5 +11,4 @@ Inicio
 	b<-num DIV 10
 	c<-a +b
 	
-	
-	//Retficação:neste primeiro commit ja tinha imprimido o resultado
+	Escrever(a, "+", b, "=", c)
