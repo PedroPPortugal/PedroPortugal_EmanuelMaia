@@ -1,0 +1,15 @@
+n -> int
+r -> int
+a -> int
+
+inicio
+
+Escreve("Insira um numero inteiro:");
+ler n;
+enquanto n>1 faz{
+	n = (r + a);
+		se (n>1){
+			n =(r+a);
+		}
+}
+fim
