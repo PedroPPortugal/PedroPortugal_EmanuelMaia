@@ -1,0 +1,15 @@
+Algoritmo AdicionarNumeros	
+ED:num1,contagem,total
+
+Inicio
+	
+	Escrever("Digite um numero")
+	Ler(num1)
+	
+	Enquanto c<>0 Fazer
+	a<-num1 MOD 10
+	b<-num DIV 10
+	c<-a +b
+	Escrever(a,"+" ,b "=", c)
+
+Fim	
